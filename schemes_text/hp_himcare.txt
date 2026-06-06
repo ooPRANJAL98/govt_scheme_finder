@@ -1,0 +1,77 @@
+SCHEME NAME: HIMCARE - Himachal Pradesh Health Care Scheme
+
+OBJECTIVE:
+To provide health insurance coverage to families in Himachal Pradesh who are
+not covered under Ayushman Bharat PM-JAY scheme. Ensures no HP resident is
+left without health protection.
+
+ELIGIBILITY:
+- Permanent resident and domicile of Himachal Pradesh
+- Must NOT be already covered under Ayushman Bharat PM-JAY
+- Any HP resident can enroll by paying a small annual premium
+- Special categories with FREE enrollment:
+  - MNREGA workers with job card
+  - Street vendors registered under PM SVANidhi
+  - Registered construction workers
+  - Anganwadi workers and helpers
+  - ASHA workers
+  - Mid-day meal workers
+  - Daily wage government employees
+
+PREMIUM AMOUNT:
+- BPL families: Rs. 0 (completely free)
+- MNREGA job card holders: Rs. 0 (completely free)
+- Annual income below Rs. 1.5 lakh: Rs. 365 per year (Rs. 1 per day)
+- Annual income Rs. 1.5 lakh to Rs. 3 lakh: Rs. 730 per year
+- Annual income above Rs. 3 lakh: Rs. 1,000 per year
+
+BENEFITS:
+- Health coverage of Rs. 5 lakh per family per year
+- Covers entire family with no limit on family size
+- Cashless treatment at all empanelled government and private hospitals in HP
+- Covers pre-existing diseases from day one of enrollment
+- Covers 1,700 plus medical procedures
+- 3 days pre-hospitalization expenses covered
+- 15 days post-hospitalization expenses covered
+- No age limit for any family member
+- Covers medicines, diagnostics, ICU, surgery, specialist fees
+
+MAJOR TREATMENTS COVERED:
+- Cancer treatment and chemotherapy
+- Heart bypass surgery and angioplasty
+- Kidney dialysis and transplant
+- Brain surgery and neurological treatments
+- Knee and hip replacement
+- Eye surgeries
+- Maternity and newborn care
+- Covid-19 and other infectious diseases
+
+HOW TO ENROLL:
+Step 1 - Visit nearest Lok Mitra Kendra or Common Service Centre (CSC) in HP
+Step 2 - Carry Aadhaar card and HP domicile certificate
+Step 3 - Fill HIMCARE enrollment form
+Step 4 - Pay applicable premium (or enroll free if eligible)
+Step 5 - HIMCARE card issued on the spot
+Step 6 - Show card at any empanelled hospital for cashless treatment
+
+DOCUMENTS REQUIRED:
+- Aadhaar card of all family members
+- HP domicile certificate or HP voter ID
+- Income certificate (for premium calculation)
+- BPL/MNREGA card (if applicable for free enrollment)
+- Ration card
+- Passport size photographs
+
+EMPANELLED HOSPITALS IN HP:
+- All government hospitals across HP (IGMC Shimla, Dr RPGMC Tanda, etc.)
+- Zonal hospitals in each district
+- Selected private hospitals across HP
+
+CONTACT:
+- HP State Benefit and You Scheme (HPSBYS) office
+- Toll free helpline: 1800-180-8900
+- Website: hpsbys.in
+- District hospitals across HP
+
+STATE: Himachal Pradesh only
+CATEGORY: Health, Insurance

@@ -1,0 +1,84 @@
+SCHEME NAME: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+
+OBJECTIVE:
+To provide health protection cover to poor and vulnerable families for
+secondary and tertiary hospitalization. Largest government-funded health
+insurance scheme in the world.
+
+ELIGIBILITY:
+Based on Socio-Economic Caste Census (SECC) 2011 data. Eligible if any of
+the following conditions apply to your household:
+
+RURAL ELIGIBILITY CONDITIONS (any one is enough):
+- Households with only one room and kuccha walls and roof
+- Households with no adult member between 16 and 59 years
+- Female-headed household with no adult male member between 16 and 59 years
+- Household with disabled member and no able-bodied adult member
+- SC/ST households
+- Landless households earning major income from manual casual labour
+- Households living in primitive tribal groups
+- Legally released bonded labourers
+- Families in BPL (Below Poverty Line) category
+
+URBAN ELIGIBILITY CONDITIONS (occupational categories):
+- Ragpicker, beggar, domestic worker, street vendor
+- Construction worker, plumber, mason, painter, welder
+- Washer-man, watchman, sweeper, sanitation worker
+- Home-based worker, artisan, handicraft worker
+- Driver, conductor, helper in transport
+- Shop worker, assistant, peon, delivery boy
+- Electrician, mechanic, assembler, repair worker
+
+NOT ELIGIBLE:
+- Families owning motorized vehicle (2/3/4 wheeler or fishing boat)
+- Families owning mechanized agricultural equipment
+- Government employees
+- Families with monthly income above Rs. 10,000
+- People paying income tax
+- Families with refrigerator or landline phone
+
+BENEFITS:
+- Health cover of Rs. 5 lakh per family per year
+- Covers all members of the family (no limit on family size)
+- Covers pre-existing diseases from day one
+- Cashless and paperless treatment at empanelled hospitals
+- Covers 3 days pre-hospitalization and 15 days post-hospitalization expenses
+- Covers over 1,500 medical procedures and treatments
+- No age limit for coverage
+- Covers medicines, diagnostics, ICU charges, surgeon fees
+
+DISEASES AND TREATMENTS COVERED:
+- Cancer treatments including chemotherapy
+- Heart surgeries (bypass, valve replacement)
+- Kidney dialysis and transplant
+- Orthopaedic surgeries (knee/hip replacement)
+- Neurological conditions and brain surgery
+- Eye surgeries including cataract
+- Maternal and child health procedures
+- Covid-19 treatment
+
+HOW TO CHECK ELIGIBILITY:
+- Visit pmjay.gov.in and enter mobile number or ration card number
+- Call helpline: 14555 or 1800-111-565 (toll free)
+- Visit nearest Common Service Centre (CSC)
+- Visit Ayushman Mitra at any empanelled government hospital
+
+HOW TO GET AYUSHMAN CARD:
+Step 1 - Check eligibility at pmjay.gov.in or call 14555
+Step 2 - Visit nearest CSC or government hospital with Aadhaar card
+Step 3 - Biometric verification done on the spot
+Step 4 - Ayushman Bharat card issued immediately (free of cost)
+Step 5 - Show card at any empanelled hospital for cashless treatment
+
+HIMACHAL PRADESH SPECIFIC:
+- HP has its own extension called HIMCARE for those not covered under PM-JAY
+- HIMCARE covers families not in SECC list with Rs. 5 lakh cover at Rs. 365/year premium
+- For HP HIMCARE: visit hpsbys.in or nearest HPSBYS office
+
+IMPORTANT NUMBERS:
+- National helpline: 14555
+- HP helpline: 0177-2629802
+- Website: pmjay.gov.in
+
+STATE: All India
+CATEGORY: Health, Insurance

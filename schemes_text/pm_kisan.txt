@@ -1,0 +1,32 @@
+SCHEME NAME: PM Kisan Samman Nidhi
+
+OBJECTIVE:
+To provide income support to all landholding farmers' families in the country.
+
+ELIGIBILITY:
+- Small and marginal farmers with cultivable land up to 2 hectares
+- Indian citizen
+- Must be actively engaged in farming
+- Valid Aadhaar card required
+- Bank account linked to Aadhaar
+
+NOT ELIGIBLE:
+- Institutional landholders
+- Farmer families holding constitutional posts
+- Government employees (current/retired)
+- Income tax payers
+- Professionals like doctors, engineers, lawyers
+
+BENEFITS:
+- Rs. 6,000 per year paid in 3 installments of Rs. 2,000 each
+- Directly transferred to bank account (DBT)
+- Every 4 months: April-July, August-November, December-March
+
+HOW TO APPLY:
+- Visit nearest Common Service Centre (CSC)
+- Apply online at pmkisan.gov.in
+- Contact local Patwari or Agriculture Officer
+- Documents needed: Aadhaar card, land records (Khasra/Khatauni), bank passbook
+
+STATE: All India
+CATEGORY: Agriculture
